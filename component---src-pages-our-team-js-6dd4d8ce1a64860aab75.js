@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{uPNo:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),u=n("vrFN");n("8GDH");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"Our Team"}),l.a.createElement("div",{class:"team-header"},l.a.createElement("h1",null,"Currently in development")))}}}]);
+//# sourceMappingURL=component---src-pages-our-team-js-6dd4d8ce1a64860aab75.js.map
